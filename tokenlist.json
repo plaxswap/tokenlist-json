@@ -1,6 +1,6 @@
 {
   "timestamp": "2026-04-28T15:45:06.350Z",
-  "name": "PancakeSwap Extended",
+  "name": "Plaxswap Extended",
   "version": {
     "major": 2,
     "minor": 16,
@@ -841,8 +841,8 @@
     }
   ],
   "keywords": [
-    "pancakeswap",
+    "plaxswap",
     "extended"
   ],
-  "logoURI": "https://pancakeswap.finance/logo.png"
+  "logoURI": "https://plaxswap.io/logo.png"
 }
