@@ -41,7 +41,7 @@
     },
     {
       "name": "Tether USD",
-      "symbol": "USDT",
+      "symbol": "USDT0",
       "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "chainId": 137,
       "decimals": 6,
@@ -134,14 +134,6 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xb33EaAd8d922B1083446DC23f610c2567fB5180f.png"
-    },
-    {
-      "name": "KYBER NETWORK CRYSTAL",
-      "symbol": "KNC",
-      "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C.png"
     },
     {
       "name": "CURVE DAO",
@@ -256,28 +248,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec.png"
     },
     {
-      "name": "BONK",
-      "symbol": "BONK",
-      "address": "0xe5B49820e5A1063F6F4DdF851327b5E8B2301048",
-      "chainId": 137,
-      "decimals": 5,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xe5B49820e5A1063F6F4DdF851327b5E8B2301048.png"
-    },
-    {
       "name": "CRONOS",
       "symbol": "CRO",
       "address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
       "chainId": 137,
       "decimals": 8,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C.png"
-    },
-    {
-      "name": "WOO",
-      "symbol": "WOO",
-      "address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603.png"
     },
     {
       "name": "Dogelon Mars",
@@ -438,14 +414,6 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xCcdc94871f1945F8eE75369e14E7D7f7edD371A7.png"
-    },
-    {
-      "name": "PPS-USDT LP",
-      "symbol": "PPSusdt",
-      "address": "0x659130cE9097E078bc1DDd03703B7d4ed95EBf57",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x659130cE9097E078bc1DDd03703B7d4ed95EBf57.png"
     },
     {
       "name": "ALIRI",
