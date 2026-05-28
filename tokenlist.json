@@ -32,14 +32,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x328801B0b580eAdd83eA841638865eA41Dc6fb25.png"
     },
     {
-      "name": "Binance USD",
-      "symbol": "BUSD",
-      "address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39.png"
-    },
-    {
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
@@ -64,14 +56,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174.png"
     },
     {
-      "name": "PlasaBar Token",
-      "symbol": "PLAXBAR",
-      "address": "0x7cbbC91c05c64c5E5b12Da6F090F8f11480deA64",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x7cbbC91c05c64c5E5b12Da6F090F8f11480deA64.png"
-    },
-    {
       "name": "PLAXPAY",
       "symbol": "PAY",
       "address": "0x7Ab2b041E120DcA2a40d8F9524B618A854d3A617",
@@ -80,28 +64,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7Ab2b041E120DcA2a40d8F9524B618A854d3A617.png"
     },
     {
-      "name": "PAYMATIC",
-      "symbol": "TPAY",
-      "address": "0x8DF4c954C51E5ccBa51b8a21cC3fF6347760b31a",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x8DF4c954C51E5ccBa51b8a21cC3fF6347760b31a.png"
-    },
-    {
       "name": "WESMEUP",
       "symbol": "SME",
       "address": "0xcD9c386c9CE5987A8336C4Db5c6A17750ea0e339",
       "chainId": 137,
       "decimals": 8,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xcD9c386c9CE5987A8336C4Db5c6A17750ea0e339.png"
-    },
-    {
-      "name": "CRYPTOPRENEUR",
-      "symbol": "CRON",
-      "address": "0xC5112195a19151Cf93570d6a400DA53aaf631626",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xC5112195a19151Cf93570d6a400DA53aaf631626.png"
     },
     {
       "name": "RUPIAH TOKEN",
@@ -230,14 +198,6 @@
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xb0de690CA7C204608062765507e280d0163D452C.png"
-    },
-    {
-      "name": "VIPool",
-      "symbol": "VIP",
-      "address": "0xffe481A8214d6eB04CFC5Df28feCFEFdacBad37e",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xffe481A8214d6eB04CFC5Df28feCFEFdacBad37e.png"
     },
     {
       "name": "CMiner",
