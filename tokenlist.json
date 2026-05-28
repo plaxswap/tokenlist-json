@@ -304,38 +304,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x19A16622368cB9E63D6E919ee6C33e42930D563a.png"
     },
     {
-      "name": "FIXPOOL",
-      "symbol": "XPOOL",
-      "address": "0x1Dc357e57F491deC226b8Afe476244f678eB739D",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x1Dc357e57F491deC226b8Afe476244f678eB739D.png"
-    },
-    {
-      "name": "CrowdPool DAO",
-      "symbol": "DPOOL",
-      "address": "0xc718e7fbaE39Ab1ff94BF9cE12F88C9B5254EfE5",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xc718e7fbaE39Ab1ff94BF9cE12F88C9B5254EfE5.png"
-    },
-    {
-      "name": "ZELTSPHY",
-      "symbol": "ZAP",
-      "address": "0x6b7682a9fdA1d482A3779C9489DC62437BB58945",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x6b7682a9fdA1d482A3779C9489DC62437BB58945.png"
-    },
-    {
-      "name": "AZZURAZZA",
-      "symbol": "AURA",
-      "address": "0x2a12ffDb78Ad627F1a78cA96964eef58b36Dc9c8",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x2a12ffDb78Ad627F1a78cA96964eef58b36Dc9c8.png"
-    },
-    {
       "name": "EXTRADE",
       "symbol": "ETA",
       "address": "0xD95B9B888aF76Dd918Cc33346B08d461512e4ba3",
@@ -416,14 +384,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xC8bB8eDa94931cA2F20EF43eA7dBD58E68400400.png"
     },
     {
-      "name": "CLABS REWARD",
-      "symbol": "CPOIN",
-      "address": "0x37aDC8f969b63B8bBD025D10D03900C5cd9DD367",
-      "chainId": 137,
-      "decimals": 0,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x37aDC8f969b63B8bBD025D10D03900C5cd9DD367.png"
-    },
-    {
       "name": "Bitfind",
       "symbol": "BTF",
       "address": "0x9b3d2aFc6fDfeF566a224E2786bAfC854fAf6800",
@@ -480,44 +440,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xCcdc94871f1945F8eE75369e14E7D7f7edD371A7.png"
     },
     {
-      "name": "PLAX-USDT LP",
-      "symbol": "PLAXusdt",
-      "address": "0x8ae534F07f08422d00Ed00a2Be1335e411Fb9DA0",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x8ae534F07f08422d00Ed00a2Be1335e411Fb9DA0.png"
-    },
-    {
-      "name": "PAY-USDT LP",
-      "symbol": "PAYusdt",
-      "address": "0x7Fa11bb242CbBa853f634BEF02Fc24A3A13f916d",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x7Fa11bb242CbBa853f634BEF02Fc24A3A13f916d.png"
-    },
-    {
-      "name": "SME-USDT LP",
-      "symbol": "SMEusdt",
-      "address": "0xB4C4Cd512d60F0E589fBcC58353C1e6225f9a1BB",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xB4C4Cd512d60F0E589fBcC58353C1e6225f9a1BB.png"
-    },
-    {
       "name": "PPS-USDT LP",
       "symbol": "PPSusdt",
       "address": "0x659130cE9097E078bc1DDd03703B7d4ed95EBf57",
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x659130cE9097E078bc1DDd03703B7d4ed95EBf57.png"
-    },
-    {
-      "name": "BTFX-USDT LP",
-      "symbol": "BTFXusdt",
-      "address": "0xF5551B1Ef3E39Ed913e43b6054da1e86C69BF162",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xF5551B1Ef3E39Ed913e43b6054da1e86C69BF162.png"
     },
     {
       "name": "ALIRI",
@@ -568,28 +496,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x38A33Cf60164EaC333400aB0ee7DeeBe92f968dB.png"
     },
     {
-      "name": "Gold Indonesia Republic",
-      "symbol": "GIDR",
-      "address": "0x0a40ff165736f5989e9F40fFbEd24A640c760754",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x0a40ff165736f5989e9F40fFbEd24A640c760754.png"
-    },
-    {
       "name": "COINLUCK",
       "symbol": "CLK",
       "address": "0x1EdC86d411AD224f97b6Ad89C4446683C1b0BAaE",
       "chainId": 137,
       "decimals": 8,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x1EdC86d411AD224f97b6Ad89C4446683C1b0BAaE.png"
-    },
-    {
-      "name": "THUBA",
-      "symbol": "TBA",
-      "address": "0x25481b64c8733475fD17C57e24082Ef938cc40D5",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x25481b64c8733475fD17C57e24082Ef938cc40D5.png"
     },
     {
       "name": "RECOIN ASSET",
