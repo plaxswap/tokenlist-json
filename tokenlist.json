@@ -184,14 +184,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x172370d5Cd63279eFa6d502DAB29171933a610AF.png"
     },
     {
-      "name": "RFIDR",
-      "symbol": "RR",
-      "address": "0x91Faa9fA243EaF35981f5563ec67e9bF0d8DFAEE",
-      "chainId": 1,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x91Faa9fA243EaF35981f5563ec67e9bF0d8DFAEE.png"
-    },
-    {
       "name": "RFIDM",
       "symbol": "RFM",
       "address": "0x04488963B02447B1ba926DBa6AD3a5f57fD855f1",
