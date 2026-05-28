@@ -187,7 +187,7 @@
       "name": "RFIDR",
       "symbol": "RR",
       "address": "0x91Faa9fA243EaF35981f5563ec67e9bF0d8DFAEE",
-      "chainId": 137,
+      "chainId": 1,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x91Faa9fA243EaF35981f5563ec67e9bF0d8DFAEE.png"
     },
