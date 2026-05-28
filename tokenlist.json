@@ -184,30 +184,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x172370d5Cd63279eFa6d502DAB29171933a610AF.png"
     },
     {
-      "name": "RFIDM",
-      "symbol": "RFM",
-      "address": "0x04488963B02447B1ba926DBa6AD3a5f57fD855f1",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x04488963B02447B1ba926DBa6AD3a5f57fD855f1.png"
-    },
-    {
-      "name": "RFIDC",
-      "symbol": "RFC",
-      "address": "0x9947d87c811e6033A1eEAFf3D25f6b4A94A8A1a7",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x9947d87c811e6033A1eEAFf3D25f6b4A94A8A1a7.png"
-    },
-    {
-      "name": "RFIDX",
-      "symbol": "RFX",
-      "address": "0x8439cc930D330427D8A4BBABC335F5927A52fa87",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x8439cc930D330427D8A4BBABC335F5927A52fa87.png"
-    },
-    {
       "name": "FREEDOM INITIAL FUND",
       "symbol": "FIF",
       "address": "0xbaEF7137D3cEC6282a83dd954eA6376d464f7780",
@@ -352,28 +328,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0xE0339c80fFDE91F3e20494Df88d4206D86024cdF.png"
     },
     {
-      "name": "AroLiex",
-      "symbol": "ARO",
-      "address": "0xa7D3aA3206425EeC18D9C8bC7A8b7ee922666bdF",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xa7D3aA3206425EeC18D9C8bC7A8b7ee922666bdF.png"
-    },
-    {
       "name": "Private Pool Share",
       "symbol": "PPS",
       "address": "0x5e4d5A1C3470d38b030af2AeA2ADA046Fc34cac6",
       "chainId": 137,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x5e4d5A1C3470d38b030af2AeA2ADA046Fc34cac6.png"
-    },
-    {
-      "name": "BITZYX",
-      "symbol": "BTZ",
-      "address": "0x67F9DD41bbc9CECb751Ff28Ea0e9E3c2dd15526c",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x67F9DD41bbc9CECb751Ff28Ea0e9E3c2dd15526c.png"
     },
     {
       "name": "BITFRIX",
@@ -440,14 +400,6 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x4a24F93c4416A5a2A36ce8fA6925198198f4EF79.png"
     },
     {
-      "name": "Boss Cat",
-      "symbol": "BCATT",
-      "address": "0x4A780Bb9D55173426f77D494aA8645273653924E",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x4A780Bb9D55173426f77D494aA8645273653924E.png"
-    },
-    {
       "name": "BITZAURA",
       "symbol": "DAZ",
       "address": "0xB5f6ca3CDC4d42A57eF85f22Ca98AD4D222D7F4E",
@@ -510,14 +462,6 @@
       "chainId": 137,
       "decimals": 0,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x37aDC8f969b63B8bBD025D10D03900C5cd9DD367.png"
-    },
-    {
-      "name": "CLABS POOL",
-      "symbol": "CPOIN-X",
-      "address": "0xE7A3eEDDd6c4F339D4219aFBAE5605CA3DF9DDD1",
-      "chainId": 137,
-      "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xE7A3eEDDd6c4F339D4219aFBAE5605CA3DF9DDD1.png"
     },
     {
       "name": "Bitfind",
