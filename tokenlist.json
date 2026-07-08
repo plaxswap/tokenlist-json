@@ -13,7 +13,7 @@
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
     },
     {
       "name": "Polygon Ecosystem Token",
@@ -21,7 +21,7 @@
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
     },
     {
       "name": "Plaxswap Token",
@@ -29,7 +29,7 @@
       "address": "0x328801B0b580eAdd83eA841638865eA41Dc6fb25",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x328801B0b580eAdd83eA841638865eA41Dc6fb25.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x328801B0b580eAdd83eA841638865eA41Dc6fb25/logo.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -37,7 +37,7 @@
       "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063/logo.png"
     },
     {
       "name": "Tether USD",
@@ -45,7 +45,7 @@
       "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "chainId": 137,
       "decimals": 6,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xc2132D05D31c914a87C6611C10748AEb04B58e8F.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xc2132D05D31c914a87C6611C10748AEb04B58e8F/logo.png"
     },
     {
       "name": "USD Coin",
@@ -53,7 +53,7 @@
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "chainId": 137,
       "decimals": 6,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/logo.png"
     },
     {
       "name": "PLAXPAY",
@@ -61,7 +61,7 @@
       "address": "0x7Ab2b041E120DcA2a40d8F9524B618A854d3A617",
       "chainId": 137,
       "decimals": 8,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x7Ab2b041E120DcA2a40d8F9524B618A854d3A617.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x7Ab2b041E120DcA2a40d8F9524B618A854d3A617/logo.png"
     },
     {
       "name": "WESMEUP",
@@ -69,7 +69,7 @@
       "address": "0xcD9c386c9CE5987A8336C4Db5c6A17750ea0e339",
       "chainId": 137,
       "decimals": 8,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xcD9c386c9CE5987A8336C4Db5c6A17750ea0e339.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xcD9c386c9CE5987A8336C4Db5c6A17750ea0e339/logo.png"
     },
     {
       "name": "RUPIAH TOKEN",
@@ -77,7 +77,7 @@
       "address": "0x554cd6bdD03214b10AafA3e0D4D42De0C5D2937b",
       "chainId": 137,
       "decimals": 6,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x554cd6bdD03214b10AafA3e0D4D42De0C5D2937b.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x554cd6bdD03214b10AafA3e0D4D42De0C5D2937b/logo.png"
     },
     {
       "name": "IDRX",
@@ -85,7 +85,7 @@
       "address": "0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC",
       "chainId": 137,
       "decimals": 0,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x649a2DA7B28E0D54c13D5eFf95d3A660652742cC/logo.png"
     },
     {
       "name": "XIDR",
@@ -93,7 +93,7 @@
       "address": "0x2c826035c1C36986117A0e949bD6ad4baB54afE2",
       "chainId": 137,
       "decimals": 6,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x2c826035c1C36986117A0e949bD6ad4baB54afE2.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x2c826035c1C36986117A0e949bD6ad4baB54afE2/logo.png"
     },
     {
       "name": "XSGD",
@@ -101,7 +101,7 @@
       "address": "0xDC3326e71D45186F113a2F448984CA0e8D201995",
       "chainId": 137,
       "decimals": 6,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xDC3326e71D45186F113a2F448984CA0e8D201995.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xDC3326e71D45186F113a2F448984CA0e8D201995/logo.png"
     },
     {
       "name": "USD Coin",
@@ -109,7 +109,7 @@
       "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "chainId": 137,
       "decimals": 6,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359/logo.png"
     },
     {
       "name": "QUICKSWAP",
@@ -117,7 +117,7 @@
       "address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xB5C064F955D8e7F38fE0460C556a72987494eE17.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xB5C064F955D8e7F38fE0460C556a72987494eE17/logo.png"
     },
     {
       "name": "AAVE",
@@ -125,7 +125,7 @@
       "address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xD6DF932A45C0f255f85145f286eA0b292B21C90B.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xD6DF932A45C0f255f85145f286eA0b292B21C90B/logo.png"
     },
     {
       "name": "UNISWAP",
@@ -133,7 +133,7 @@
       "address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xb33EaAd8d922B1083446DC23f610c2567fB5180f.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xb33EaAd8d922B1083446DC23f610c2567fB5180f/logo.png"
     },
     {
       "name": "CURVE DAO",
@@ -141,7 +141,7 @@
       "address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x172370d5Cd63279eFa6d502DAB29171933a610AF.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x172370d5Cd63279eFa6d502DAB29171933a610AF/logo.png"
     },
     {
       "name": "Wrapped BTC",
@@ -149,7 +149,7 @@
       "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
       "chainId": 137,
       "decimals": 8,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6/logo.png"
     },
     {
       "name": "Wrapped Ether",
@@ -157,7 +157,7 @@
       "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/logo.png"
     },
     {
       "name": "Wrapped BNB",
@@ -165,7 +165,7 @@
       "address": "0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://plaxswap.io/images/tokens/0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d.png"
+      "logoURI": "https://plaxswap.io/images/tokens/0xecdcb5b88f8e3c15f95c720c51c71c9e2080525d/logo.png"
     },
     {
       "name": "SOLANA",
@@ -173,7 +173,7 @@
       "address": "0xd93f7E271cB87c23AaA73edC008A79646d1F9912",
       "chainId": 137,
       "decimals": 9,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xd93f7E271cB87c23AaA73edC008A79646d1F9912.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xd93f7E271cB87c23AaA73edC008A79646d1F9912/logo.png"
     },
     {
       "name": "Avalanche",
@@ -189,7 +189,7 @@
       "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39/logo.png"
     },
     {
       "name": "1INCH",
@@ -197,7 +197,7 @@
       "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f/logo.png"
     },
     {
       "name": "SHIBA INU",
@@ -205,7 +205,7 @@
       "address": "0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x6f8a06447Ff6FcF75d803135a7de15CE88C1d4ec/logo.png"
     },
     {
       "name": "CRONOS",
@@ -213,7 +213,7 @@
       "address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
       "chainId": 137,
       "decimals": 8,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C/logo.png"
     },
     {
       "name": "Dogelon Mars",
@@ -221,7 +221,7 @@
       "address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xE0339c80fFDE91F3e20494Df88d4206D86024cdF.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xE0339c80fFDE91F3e20494Df88d4206D86024cdF/logo.png"
     },
     {
       "name": "BITFRIX",
@@ -229,7 +229,7 @@
       "address": "0x19A16622368cB9E63D6E919ee6C33e42930D563a",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x19A16622368cB9E63D6E919ee6C33e42930D563a.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x19A16622368cB9E63D6E919ee6C33e42930D563a/logo.png"
     },
     {
       "name": "PAX Gold",
@@ -237,7 +237,7 @@
       "address": "0x553d3D295e0f695B9228246232eDF400ed3560B5",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x553d3D295e0f695B9228246232eDF400ed3560B5.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x553d3D295e0f695B9228246232eDF400ed3560B5/logo.png"
     },
     {
       "name": "Tether Gold",
@@ -253,7 +253,7 @@
       "address": "0xC8bB8eDa94931cA2F20EF43eA7dBD58E68400400",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xC8bB8eDa94931cA2F20EF43eA7dBD58E68400400.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0xC8bB8eDa94931cA2F20EF43eA7dBD58E68400400/logo.png"
     },
     {
       "name": "COINLUCK",
@@ -261,7 +261,7 @@
       "address": "0x1EdC86d411AD224f97b6Ad89C4446683C1b0BAaE",
       "chainId": 137,
       "decimals": 8,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x1EdC86d411AD224f97b6Ad89C4446683C1b0BAaE.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x1EdC86d411AD224f97b6Ad89C4446683C1b0BAaE/logo.png"
     },
     {
       "name": "RECOIN ASSET",
@@ -269,7 +269,7 @@
       "address": "0x4042bA2085eDfA4b68106b2eec5d5007F1D36DdE",
       "chainId": 137,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x4042bA2085eDfA4b68106b2eec5d5007F1D36DdE.png"
+      "logoURI": "https://plaxswap.github.io/blockchain/polygon/assets/0x4042bA2085eDfA4b68106b2eec5d5007F1D36DdE/logo.png"
     }
   ],
   "keywords": [
